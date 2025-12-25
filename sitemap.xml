@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <!-- ✅ Arabic Pages -->
+  <url>
+    <loc>https://www.aluminiumexperts.com/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://www.aluminiumexperts.com/about.html</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.aluminiumexperts.com/services.html</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.aluminiumexperts.com/portfolio.html</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.aluminiumexperts.com/contact.html</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.aluminiumexperts.com/privacy.html</loc>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.aluminiumexperts.com/terms.html</loc>
+    <priority>0.5</priority>
+  </url>
+
+  <!-- ✅ English Pages -->
+  <url>
+    <loc>https://www.aluminiumexperts.com/index-en.html</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://www.aluminiumexperts.com/about-en.html</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.aluminiumexperts.com/services-en.html</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.aluminiumexperts.com/portfolio-en.html</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.aluminiumexperts.com/contact-en.html</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.aluminiumexperts.com/privacy-en.html</loc>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.aluminiumexperts.com/terms-en.html</loc>
+    <priority>0.5</priority>
+  </url>
+
+</urlset>

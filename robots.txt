@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# ✅ Sitemap including Arabic & English pages
+Sitemap: https://www.aluminiumexperts.com/sitemap.xml
