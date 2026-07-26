@@ -1,0 +1,32 @@
+[build]
+  publish = "."
+
+[[redirects]]
+  from = "/assets/images/*"
+  to = "/:splat"
+  status = 200
+
+[[redirects]]
+  from = "/assets/*"
+  to = "/:splat"
+  status = 200
+
+[[redirects]]
+  from = "/services.html"
+  to = "/about.html"
+  status = 301
+
+[[redirects]]
+  from = "/services-en.html"
+  to = "/about-en.html"
+  status = 301
+
+[[redirects]]
+  from = "/terms.html"
+  to = "/privacy.html"
+  status = 301
+
+[[redirects]]
+  from = "/terms-en.html"
+  to = "/privacy-en.html"
+  status = 301
